@@ -35,6 +35,7 @@ http://evil-icons.io/
 
 - ####Iconic
 https://useiconic.com/open
+
         This work is licensed under Creative Commons' Attribution-ShareAlike 3.0 United States (CC BY-SA 3.0) - http://creativecommons.org/licenses/by-sa/3.0/us/
         
         If you use these icons, please add a link to Iconic (http://somerandomdude.com/work/iconic/) somewhere on your site or in your app.
