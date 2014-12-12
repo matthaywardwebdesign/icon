@@ -58,3 +58,7 @@ https://useiconic.com/open
          OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
          THE SOFTWARE.
 
+- ###Octicons
+https://octicons.github.com/
+
+         MIT (http://choosealicense.com/licenses/mit/)
