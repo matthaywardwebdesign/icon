@@ -1,7 +1,7 @@
 icon
 ====
 
-A collection of free open source icons sourced from all over the web.
+A collection of over 3000 free open source icons sourced from all over the web.
 
 ####Sources and Licenses
 
